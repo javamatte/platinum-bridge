@@ -1,0 +1,24 @@
+{
+  "name": "platinum-bridge",
+  "version": "1.0.0",
+  "description": "Library for connecting to a Hunter Douglas Platinum Bridge (Power Rise) over TCP",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javamatte/platinum-bridge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blinds",
+    "shades",
+    "hunter",
+    "douglas",
+    "platinum",
+    "bridge",
+    "powerrise"
+  ],
+  "author": "javamatte@gmail.com",
+  "license": "MIT"
+}
